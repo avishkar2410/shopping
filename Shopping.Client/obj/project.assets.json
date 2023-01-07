@@ -103,11 +103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Downloads\\.Net with Azure integration docer and CI-CD\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+      "projectUniqueName": "C:\\Azure\\Learning\\Shopping.Client\\Shopping.Client.csproj",
       "projectName": "Shopping.Client",
-      "projectPath": "C:\\Users\\HP\\Downloads\\.Net with Azure integration docer and CI-CD\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+      "projectPath": "C:\\Azure\\Learning\\Shopping.Client\\Shopping.Client.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Downloads\\.Net with Azure integration docer and CI-CD\\Shopping\\Shopping.Client\\obj\\",
+      "outputPath": "C:\\Azure\\Learning\\Shopping.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

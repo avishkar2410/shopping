@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VbNy2/5DOl8TNPuFEEKpyjUycvgjM8ff9cuDiIJebQzcJIgecmvQyC2m4yg1FP0J0vOkNTHCWIotFgLBzGyy5Q==",
+  "dgSpecHash": "a0+QBJINtHZDjUxywuoj3zWzAPDkPQ2pE4g2T9VJEHpptESSy3JMmBDC1Qbwt8o7Q/aL5DxFyvkgHfg51keLow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Downloads\\.Net with Azure integration docer and CI-CD\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "projectFilePath": "C:\\Azure\\Learning\\Shopping.Client\\Shopping.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
   ],

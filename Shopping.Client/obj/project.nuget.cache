@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "a0+QBJINtHZDjUxywuoj3zWzAPDkPQ2pE4g2T9VJEHpptESSy3JMmBDC1Qbwt8o7Q/aL5DxFyvkgHfg51keLow==",
+  "dgSpecHash": "QJtA6lcZvMim91I7Nt8LZN2zR7q0NzqkDzYLlA7HtJwRZyTfGzVLTPJcPsH6ghNLdZd3iV4h6DM83wgHdKEP4Q==",
   "success": true,
   "projectFilePath": "C:\\Azure\\Learning\\Shopping.Client\\Shopping.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
   "logs": []
 }

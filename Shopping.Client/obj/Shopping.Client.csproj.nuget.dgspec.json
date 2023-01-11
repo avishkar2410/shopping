@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Azure\\Learning\\Shopping.Client\\Shopping.Client.csproj": {}
+    "C:\\Azure\\Learning\\Shopping\\Shopping.Client\\Shopping.Client.csproj": {}
   },
   "projects": {
-    "C:\\Azure\\Learning\\Shopping.Client\\Shopping.Client.csproj": {
+    "C:\\Azure\\Learning\\Shopping\\Shopping.Client\\Shopping.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Azure\\Learning\\Shopping.Client\\Shopping.Client.csproj",
+        "projectUniqueName": "C:\\Azure\\Learning\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
         "projectName": "Shopping.Client",
-        "projectPath": "C:\\Azure\\Learning\\Shopping.Client\\Shopping.Client.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Azure\\Learning\\Shopping.Client\\obj\\",
+        "projectPath": "C:\\Azure\\Learning\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Azure\\Learning\\Shopping\\Shopping.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     }
